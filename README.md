@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+This repo takes a look at where people from GTA are most likely to register their marriage.
 
 
 ## File Structure
@@ -19,12 +19,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-This project was completed without any LLM usage
-
-## Some checks
-
-- [ ] Change the rproj file name so that it's not starter_folder.Rproj
-- [ ] Change the README title so that it's not Starter folder
-- [ ] Remove files that you're not using
-- [ ] Update comments in R scripts
-- [ ] Remove this checklist
+This project was completed without any LLM usage.
